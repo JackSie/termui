@@ -8,7 +8,7 @@ import (
 	"image"
 	"math"
 
-	. "github.com/gizak/termui/v3"
+	. "github.com/JackSie/termui/v3"
 )
 
 /*Table is like:
